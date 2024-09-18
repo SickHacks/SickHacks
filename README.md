@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 Awards and Achievements
 - Won the 1st edition of GitHub India Open Source Grants
 - Worked as DuckDuckGo Community Leader and Maintainer
-- 1er lugar en la hackathon de ciberseguridad | TICSUR | Universidad Santo Tomás
+- 1er lugar, HACKATHON | Competencia de ciberseguridad | TICSUR | Universidad Santo Tomás
