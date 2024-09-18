@@ -24,6 +24,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Awards and Achievements
-- Won the 1st edition of GitHub India Open Source Grants
-- Worked as DuckDuckGo Community Leader and Maintainer
+- Certificación SENCE Fullstack - JAVA
 - 1er lugar, HACKATHON | Competencia de ciberseguridad | TICSUR | Universidad Santo Tomás
