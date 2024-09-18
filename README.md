@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 -->
 Awards and Achievements
 - Certificación SENCE Fullstack - JAVA
-- 1er lugar, HACKATHON | Competencia de ciberseguridad | TICSUR | Universidad Santo Tomás
+- 1er lugar 🏆, HACKATHON | Competencia de ciberseguridad | TICSUR | Universidad Santo Tomás
