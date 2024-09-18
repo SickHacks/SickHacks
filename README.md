@@ -19,7 +19,7 @@ Fields of intereset:
 - Electronics 
 - Systems
 
-Currently learning: 
+> Currently learning: 
  - Python
  - Bash
  - PHP
