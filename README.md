@@ -8,10 +8,10 @@
 /_/ |_\___/\___/ .___/    /_/\___/\__,_/_/  /_/ /_/_/_/ /_/\__, /  
               /_/                                         /____/   
 ```
-
-
 South America, Chile
-Education: Student: Information Technology Engineering | INACAP
+
+Education: 
+- Student: Information Technology Engineering | INACAP
 
 Fields of intereset: 
 - Hacking 
