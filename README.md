@@ -9,22 +9,23 @@
               /_/                                         /____/   
 ```
 
+
+name: Fernando Obreque Ortíz
+located_in: South America, Chile
+Educación: [Student: "Information Technology Engineering | INACAP"]
+ields_of_interests: ["Hacking", "Programming", "Electronics", "Systems", 
+                      "Linux", "IoT", ""]
+currently_learning: ["Python", "Bash", "PHP"]
+
+
 Certificaciones:
 - English Certificate (C2 Proficient) | EFSET
 - Scrum Fundamentals Certified (SFC) | SCRUMstudy
 - Introduction to Cybersecurity | CISCO
-- Introducción a Linux | Hack4u
-- Soporte computacional | INACAP
-- Certificación SENCE Fullstack - JAVA
+- Introduction to Linux | Hack4u
+- Computer Maintenance and Support | INACAP
+- SENCE Fullstack - JAVA
 
-Premios
-- 1er lugar 🏆 Competencia de hacking | HACKATHON TICSUR 2024 | UST
+Awards
+- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
 
-```
-name: Fernando Obreque Ortíz
-located_in: South America, Chile
-education: [Student: "Information Technology Engineering | INACAP"]
-fields_of_interests: ["Hacking", "Programming", "Electronics", "Systems", 
-                      "Linux", "IoT", ""]
-currently_learning: ["Python", "Bash", "PHP"]
-```
