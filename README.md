@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 Certificaciones:
 - English Certificate (C2 Proficient) | EFSET
 - Scrum Fundamentals Certified (SFC) | SCRUMstudy
-- Certificación SENCE Fullstack - JAVA
 - Introduction to Cybersecurity | CISCO
 - Introducción a Linux | Hack4u
-- Personalización de entorno en Linux | Hack4u
+- Soporte computacional | INACAP
+- Certificación SENCE Fullstack - JAVA
 
 Premios
 - 1er lugar 🏆 Competencia de hacking | HACKATHON TICSUR 2024 | UST
