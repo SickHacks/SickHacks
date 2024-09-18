@@ -11,27 +11,27 @@
 South America, Chile
 
 Education: 
-- Student: Information Technology Engineering | INACAP
+  - Student: Information Technology Engineering | INACAP
 
 Fields of intereset: 
-- Hacking 
-- Programming 
-- Electronics 
-- Systems
+  - Hacking 
+  - Programming 
+  - Electronics 
+  - Systems
 
-> Currently learning: 
- - Python
- - Bash
- - PHP
+Currently learning: 
+  - Python
+  - Bash
+  - PHP
 
 Certifications:
-- English Certificate (C2 Proficient) | EFSET
-- Scrum Fundamentals Certified (SFC) | SCRUMstudy
-- Introduction to Cybersecurity | CISCO
-- Introduction to Linux | Hack4u
-- Computer Maintenance and Support | INACAP
-- SENCE Fullstack - JAVA
+  - English Certificate (C2 Proficient) | EFSET
+  - Scrum Fundamentals Certified (SFC) | SCRUMstudy
+  - Introduction to Cybersecurity | CISCO
+  - Introduction to Linux | Hack4u
+  - Computer Maintenance and Support | INACAP
+  - SENCE Fullstack - JAVA
 
 Awards
-- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
+  - 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
 
