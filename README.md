@@ -10,15 +10,21 @@
 ```
 
 
-name: Fernando Obreque Ortíz
-located_in: South America, Chile
-Educación: [Student: "Information Technology Engineering | INACAP"]
-ields_of_interests: ["Hacking", "Programming", "Electronics", "Systems", 
-                      "Linux", "IoT", ""]
-currently_learning: ["Python", "Bash", "PHP"]
+South America, Chile
+Education: Student: Information Technology Engineering | INACAP
 
+Fields of intereset: 
+- Hacking 
+- Programming 
+- Electronics 
+- Systems
 
-Certificaciones:
+Currently learning: 
+ - Python
+ - Bash
+ - PHP
+
+Certifications:
 - English Certificate (C2 Proficient) | EFSET
 - Scrum Fundamentals Certified (SFC) | SCRUMstudy
 - Introduction to Cybersecurity | CISCO
