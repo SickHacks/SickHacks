@@ -3,12 +3,15 @@
 Education: 
   - Student: Information Technology Engineering | INACAP
 ________________________________
-**Certifications:**                                 |  **Fields of Interest:**
-- English Certificate (C2 Proficient) | EFSET       | - Hacking
-- Scrum Fundamentals Certified (SFC) | SCRUMstudy   | - Programming
-- Introduction to Cybersecurity | CISCO             | - Electronics
-- Computer Maintenance and Support | INACAP         | - Systems
-- SENCE Fullstack - JAVA
+
+| **Education**                                    | **Fields of interest** |
+| ------------------------------------------------ | ---------------------- |
+| English Certificate (C2 Proficient) \| EFSET     | Ethical Hacking        |
+| Scrum Fundamentals Certified (SFC) \| SCRUMstudy | Programming            |
+| Introduction to Cybersecurity \| CISCO           | Forensics              |
+| Computer Maintenance and Support \| INACAP       | Electronics            |
+| SENCE Fullstack - JAVA                           | Networking             |
+
 _________________________________________________
 **Awards:**
 - 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
