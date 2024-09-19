@@ -1,5 +1,4 @@
 ![asd](/img/banner4.jpg)
-South America, Chile 
 
 Education: 
   - Student: Information Technology Engineering | INACAP
