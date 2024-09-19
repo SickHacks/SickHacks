@@ -7,7 +7,7 @@
                                /_/ |_\___/\___/ .___/    /_/\___/\__,_/_/  /_/ /_/_/_/ /_/\__, /  
                                              /_/                                         /____/   
 ```
-South America, Chile
+South America, Chile :flag_cl: 
 
 Education: 
   - Student: Information Technology Engineering | INACAP
