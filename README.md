@@ -9,19 +9,12 @@ South America, Chile
 
 Education: 
   - Student: Information Technology Engineering | INACAP
-__________________________________________________
-
-**Fields of Interest:**
-- Hacking
-- Programming
-- Electronics
-- Systems
-_________________________________________________
-**Certifications:**
-- English Certificate (C2 Proficient) | EFSET
-- Scrum Fundamentals Certified (SFC) | SCRUMstudy
-- Introduction to Cybersecurity | CISCO
-- Computer Maintenance and Support | INACAP
+________________________________
+**Certifications:**                                 |  **Fields of Interest:**
+- English Certificate (C2 Proficient) | EFSET       | - Hacking
+- Scrum Fundamentals Certified (SFC) | SCRUMstudy   | - Programming
+- Introduction to Cybersecurity | CISCO             | - Electronics
+- Computer Maintenance and Support | INACAP         | - Systems
 - SENCE Fullstack - JAVA
 _________________________________________________
 **Awards:**
