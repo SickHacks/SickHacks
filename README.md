@@ -10,12 +10,18 @@ South America, Chile
 Education: 
   - Student: Information Technology Engineering | INACAP
 
-**Fields of Interest:**   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Certifications:**
-- Hacking                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - English Certificate (C2 Proficient) | EFSET
-- Programming             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Scrum Fundamentals Certified (SFC) | SCRUMstudy
-- Electronics             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Introduction to Cybersecurity | CISCO
-- Systems                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Computer Maintenance and Support | INACAP
-                          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - SENCE Fullstack - JAVA
+**Fields of Interest:**
+- Hacking
+- Programming
+- Electronics
+- Systems
 
-Awards:
-  - 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
+**Certifications:**
+- English Certificate (C2 Proficient) | EFSET
+- Scrum Fundamentals Certified (SFC) | SCRUMstudy
+- Introduction to Cybersecurity | CISCO
+- Computer Maintenance and Support | INACAP
+- SENCE Fullstack - JAVA
+
+**Awards:**
+- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST
