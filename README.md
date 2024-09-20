@@ -4,13 +4,13 @@
 
 ###
 
-<p align="left">Education:<br>- Student: Information Technology Engineering | INACAP<br><br>Certifications:                                                                 <br>- EFSET English Certificate (C2 Proficient)<br>- Scrum Fundamentals Certified (SFC)  SCRUMstudy   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Fullstack - JAVA<br><br>Fields of Interest:<br>- Hacking<br>- Programming<br>- Hardware<br>- Networking<br><br>Awards:<br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br>Cybersecurity blog: <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
+<p align="left"><b>Education</b><br>- Student: Information Technology Engineering | INACAP<br><br><b>Certifications</b>                                                                 <br>- EFSET English Certificate (C2 Proficient)<br>- Scrum Fundamentals Certified (SFC)  SCRUMstudy   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Fullstack - JAVA<br><br><b>Fields of Interest</b><br>- Hacking<br>- Programming<br>- Hardware<br>- Networking<br><br><b>Awards :)</b><br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br><b>Check out my blog:</b> <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
 
 ###
 
 <br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo" />
@@ -26,5 +26,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo" />
 
 </div>
-
+<br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
