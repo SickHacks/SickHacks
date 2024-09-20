@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 40px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="50" alt="debian logo" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="50" alt="bash logo" />
@@ -28,3 +28,4 @@
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+
