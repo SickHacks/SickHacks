@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"><b>Education</b><br>- Student: Information Technology Engineering | INACAP<br><br><b>Certifications</b>                                                                 <br>- EFSET English Certificate (C2 Proficient)<br>- Scrum Fundamentals Certified (SFC)  SCRUMstudy   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Fullstack - JAVA<br><br><b>Fields of Interest</b><br>- Hacking<br>- Programming<br>- Hardware<br>- Networking<br><br><b>Awards :)</b><br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br><b>Check out my blog:</b> <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
+<p align="left"><b>Education</b><br>- Student: Information Technology Engineering | INACAP<br><br><b>Certifications</b>                                                                 <br>- EFSET English Certificate (C2 Proficient)<br>- Scrum Fundamentals Certified (SFC)  SCRUMstudy   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Fullstack - JAVA<br><br><b>Fields of Interest</b><br>- Hacking<br>- Programming<br>- Hardware<br>- Networking<br><br><b>Awards :)</b><br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br><b>Check out my blog (ES):</b> <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
 
 ###
 
