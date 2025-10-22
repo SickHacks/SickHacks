@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left"><b>Education</b><br>- Programmer Analyst | INACAP<br>- Cybersecurity Engineering | Universidad Mayor<br><br><b>Certifications</b>                                                                 <br>- EFSET English Certificate (C2 Proficient)<br>- Junior Penetration Tester eJPTv2 | INE Security   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Full Stack JAVA Developer<br><br><b>Fields of Interest</b><br>- Hacking<br>- Programming<br>- Cryptography<br>- Networking<br><br><b>Awards</b><br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br><b>Check out my blog (ES):</b> <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
+<p align="left"><b>Education</b><br>- Programmer Analyst | INACAP<br>- Cybersecurity Engineering | Universidad Mayor<br><br><b>Certifications</b>                                                                 <br>- Certified Red Team Analyst CRTA | CyberWarfare Labs<br>- Junior Penetration Tester eJPTv2 | INE Security   <br>- CISCO Introduction to Cybersecurity                         <br>- Computer Maintenance and Support  INACAP         <br>- SENCE Full Stack JAVA Developer<br><br><b>Fields of Interest</b><br>- Hacking<br>- Programming<br>- Cryptography<br>- Networking<br><br><b>Awards</b><br>- 1st place 🏆 Hacking Competition | HACKATHON TICSUR 2024 | UST <br><br><b>Check out my blog (ES):</b> <a href="https://sickhacks.github.io/">Sick Hacks!</a> </p>
 
 ###
 
@@ -28,5 +28,6 @@
 </div>
 <br>
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+
 
 
